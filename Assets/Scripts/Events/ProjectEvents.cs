@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 namespace Events
 {
-    public class ProjectEvents : MonoBehaviour
+    public class ProjectEvents 
     {
         public UnityAction ProjectStarted;
     }
