@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using Components;
 using Extensions.System;
 using Extensions.Unity;
@@ -90,36 +91,7 @@ public static class GridF
         }
     }
 
-    public static bool TryGetMostBelowEmpty(this Tile[,] thisGrid, Tile thisTile, out Vector2Int belowTileCoords)
-    {
-        Vector2Int belowCoords = thisTile.Coords;
-        belowTileCoords = belowCoords;
-        
-        belowCoords.y --;
-
-        if(thisGrid.IsInsideGrid(belowCoords) == false) return false;
-
-        if(thisGrid.Get(belowCoords)) return false;
-        
-        for(int y = belowCoords.y; y < 0; y --)
-        {
-            Vector2Int thisCoords = new(thisTile.Coords.x, y);
-            
-            Tile belowTile = thisGrid.Get(thisCoords);
-
-            if(belowTile == false)
-            {
-                belowTileCoords = thisCoords;
-            }
-            else
-            {
-                break;
-            }
-        }
-        
-        return true;
-    }
-
+   
     public static List<Tile> GetMatchesY
     (this Tile[,] thisGrid, Tile tile)
         => GetMatchesY(thisGrid, tile.Coords, tile.ID);
@@ -281,8 +253,7 @@ public static class GridF
         return matches;
     }
 
-    private static int ClampInsideGrid
-    (int value, int gridSize)
+    private static int ClampInsideGrid(int value, int gridSize)
     {
         return Mathf.Clamp(value, 0, gridSize - 1);
     }

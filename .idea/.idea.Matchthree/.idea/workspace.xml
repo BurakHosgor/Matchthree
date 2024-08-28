@@ -5,21 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f320366-05ea-470a-8f75-97cd2cd903a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Components/UI/PlayerScoreTMP.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Components/UI/PlayerScoreTMP.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/GemHunterMatch/Fonts/CurseCasual/Curse Casual SDF 1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/GemHunterMatch/Fonts/CurseCasual/Curse Casual SDF 1.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Matchthree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Matchthree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/GemHunterMatch/VFX/BasicEffects/VFX_CrashBox.vfx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/GemHunterMatch/VFX/BasicEffects/VFX_CrashBox.vfx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Borders/BorderBot.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Borders/BorderBot.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Borders/BorderBotLeft.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Borders/BorderBotLeft.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Borders/BorderBotRight.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Borders/BorderBotRight.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Borders/BorderLeft.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Borders/BorderLeft.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Borders/BorderRight.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Borders/BorderRight.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Borders/BorderTop.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Borders/BorderTop.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Borders/BorderTopLeft.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Borders/BorderTopLeft.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Borders/BorderTopRight.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Borders/BorderTopRight.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/TileFish Variant.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/TileFish Variant.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/TileGem Variant.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/TileGem Variant.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/TilePearl Variant.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/TilePearl Variant.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/TileStar Variant.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/TileStar Variant.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/ProjectContext.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/ProjectContext.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Components/GridManager.Editor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Components/GridManager.Editor.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Components/GridManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Components/GridManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Components/InputListener.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Components/InputListener.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Components/Tile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Components/Tile.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Events/GridEvents.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Events/GridEvents.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Extensions/Unity/MonoPool.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Extensions/Unity/MonoPool.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Components/UI/PlayerScoreTMP.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Components/UI/PlayerScoreTMP.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EnvVar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EnvVar.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Extensions/System/Linq.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Extensions/System/Linq.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GridF.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GridF.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Installers/MainSceneInstaller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Installers/MainSceneInstaller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Installers/ProjectInstaller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Installers/ProjectInstaller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SoundManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/MainMenu/BaseNewGameButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/MainMenu/NewGameBTN1.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -97,6 +126,30 @@
       <updated>1720427031243</updated>
       <workItem from="1720427033610" duration="1904000" />
       <workItem from="1720433980689" duration="4264000" />
+      <workItem from="1721238636412" duration="635000" />
+      <workItem from="1721286533043" duration="1138000" />
+      <workItem from="1721291898271" duration="1872000" />
+      <workItem from="1721295547515" duration="306000" />
+      <workItem from="1721295957356" duration="2487000" />
+      <workItem from="1721298592618" duration="309000" />
+      <workItem from="1721310374263" duration="2150000" />
+      <workItem from="1721312726989" duration="121000" />
+      <workItem from="1721369118522" duration="9712000" />
+      <workItem from="1721390635557" duration="5217000" />
+      <workItem from="1721396904659" duration="6758000" />
+      <workItem from="1721404556675" duration="4158000" />
+      <workItem from="1721415150398" duration="3025000" />
+      <workItem from="1721459163024" duration="6575000" />
+      <workItem from="1721466400604" duration="5250000" />
+      <workItem from="1721473309308" duration="73000" />
+      <workItem from="1721479574883" duration="763000" />
+      <workItem from="1721480366332" duration="6516000" />
+      <workItem from="1721487951345" duration="2662000" />
+      <workItem from="1721502137299" duration="8666000" />
+      <workItem from="1721534243086" duration="6661000" />
+      <workItem from="1721543690756" duration="9088000" />
+      <workItem from="1721562978821" duration="1445000" />
+      <workItem from="1721635503414" duration="1776000" />
     </task>
     <servers />
   </component>

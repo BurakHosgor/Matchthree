@@ -2,7 +2,6 @@ using DG.Tweening;
 using Events;
 using Extensions.DoTween;
 using Extensions.Unity.MonoHelper;
-using UnityEngine;
 using Zenject;
 
 namespace Components.UI
@@ -14,6 +13,7 @@ namespace Components.UI
         public ITweenContainer TweenContainer{get;set;}
         private int _currCounterVal;
         private int _playerScore;
+        public int PlayerScore => _playerScore;
 
         private void Awake()
         {
@@ -25,10 +25,8 @@ namespace Components.UI
             GridEvents.MatchGroupDespawn += OnMatchGroupDespawn;
         }
 
-        private void OnMatchGroupDespawn(int arg0)
+        public void OnMatchGroupDespawn(int arg0)
         {
-            Debug.LogWarning($"{arg0}");
-            
             _playerScore += arg0;
 
             if(_counterTween.IsActive()) _counterTween.Kill();
@@ -42,6 +40,7 @@ namespace Components.UI
             );
 
             TweenContainer.AddTween = _counterTween;
+            
         }
 
         private void OnCounterUpdate(int val)
